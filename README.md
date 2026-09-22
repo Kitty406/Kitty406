@@ -8,6 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=C084FC&center=true&vCenter=true&width=560&lines=Construindo+ideias+em+c%C3%B3digo;Aprendendo+Kotlin%2C+SQL+e+um+pouco+de+tudo;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UniNorte;Sempre+com+um+projeto+em+andamento" alt="Typing SVG" />
 </a>
 
+<img src="https://raw.githubusercontent.com/kitty406/kitty406/output/github-contribution-grid-snake-dark.svg" width="90%" />
+
 </div>
 
 <br>
