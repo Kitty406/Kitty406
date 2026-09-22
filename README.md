@@ -16,15 +16,24 @@
 
 ## 💜 Sobre mim
 
-```python
-class Sobre:
-    def __init__(self):
-        self.nome = "Kirthyen Sophia"
-        self.curso = "Ciência da Computação — UniNorte"
-        self.periodo = "4º período"
-        self.cidade = "Manaus, AM "
-        self.funcao_extra = "Líder de turma desde o 2º período"
-        self.foco_atual = ["SQL", "Kotlin", "Node.js", "React Native"]
+<div align="center">
 
-    def curiosidade(self):
-        return "Aprendendo a equilibrar código, aula e prazo de entrega 😅"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1200&pause=500&color=C084FC&background=0D0D0DFF&center=false&vCenter=true&multiline=true&repeat=true&width=650&height=380&lines=%24+whoami;kirthyen-sophia;+;%24+cat+sobre.txt;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+UniNorte;L%C3%ADder+de+turma+desde+o+2%C2%BA+per%C3%ADodo;Manaus%2C+AM;+;%24+ls+foco_atual%2F;SQL++Kotlin++Node.js++React_Native;+;%24+echo+%24STATUS_ATUAL;debugando+%C3%A0s+2h+da+manh%C3%A3+%F0%9F%9F%A3" alt="Terminal simulado" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://instagram.com/kirthyen.s">
+  <img src="https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=C084FC" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:6b21a8,100:0d0d0d&height=100&section=footer" width="100%"/>
+
+<sub>feito com 💜 por Kirthyen Sophia - entre aulas de linguagens de programação e um deploy quebrado</sub>
+
+</div>
